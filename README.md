@@ -1,3 +1,5 @@
 # DOTFILES
 
-woooo
+### Spectacle
+
+dir: `~/Library/Preferences/com.divisiblebyzero.Spectacle.plist`
